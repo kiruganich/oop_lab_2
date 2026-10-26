@@ -1,0 +1,14 @@
+build/
+out/
+*.exe
+*.o
+*.obj
+oop_lab2_main
+oop_lab2_tests
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+.DS_Store
